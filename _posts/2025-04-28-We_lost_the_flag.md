@@ -1,11 +1,11 @@
 ---
 title: "We lost the flag"
 date: 2025-04-28 9:52:00 +02:00
-categories: [Writeups, CIT_CTF, forensics]
-tags: [CIT_CTF, forensics]
+categories: [Writeups, CIT@CTF, forensics]
+tags: [CIT@CTF, forensics]
 ---
 
-# We Lost the Flag - Forensics Write-up
+# CIT@CTF Write-up: We Lost the Flag (Forensics) 
 
 ## Challenge Overview
 In this forensics challenge, we were provided with a single file named `lost.png`. The goal was to recover the hidden flag concealed within the file. However, the file wouldn't open as a standard PNG image, hinting at a deeper issue with its format or structure.

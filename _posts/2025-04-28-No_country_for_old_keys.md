@@ -1,11 +1,11 @@
 ---
 title: "No Country for Old Keys"
 date: 2025-04-28 10:40:00 +02:00
-categories: [Writeups, CIT_CTF, OSINT]
-tags: [CIT_CTF, OSINT]
+categories: [Writeups, CIT@CTF, OSINT]
+tags: [CIT@CTF, OSINT]
 ---
 
-# No Country for Old Keys - Write-up
+# CIT@CTF Write-up: No Country for Old Keys (OSINT)
 
 ## Challenge Overview
 The objective of this challenge was to find Anthony McConnolly's API key. Given the nature of the task, the first logical step was to investigate his online presence, starting with GitHub, a common platform where developers might inadvertently expose sensitive information like API keys.
